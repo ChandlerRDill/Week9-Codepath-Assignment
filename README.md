@@ -12,3 +12,5 @@ I let my honeypot run for about ~35 minutes, in which I received 8 attacks, 7 of
 As of this writing, no unresolved questions have been raised. Although, to my surprise, as time goes on it appears an american IP has committed the most attacks on this honeypot. Port #23 has been the most popular port to attack as well.
 
 Included in this repo is a .gif of my admin-dashboard illustrating the attacks on my honeypot as well as the session details of the honeypot in .json format at that point in time.
+
+Edit: After checking back the following morning, I have had 2 malware payloads reported from dionaea's capture itself, a screenshot has been included to reflect this.
